@@ -7,7 +7,7 @@ import requests
 from bs4 import BeautifulSoup
 import matplotlib.pyplot as plt
 
-BOT_TOKEN = "ВСТАВЬ_СЮДА_СВОЙ_ТОКЕН"
+BOT_TOKEN = "8199697007:AAGr2wRqr--jGQBZt9-gl8J_tOyLdE3LbFY"
 
 logging.basicConfig(level=logging.INFO)
 
